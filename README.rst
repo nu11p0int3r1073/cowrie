@@ -8,8 +8,8 @@ This project has recently been updated to include experimental support for the *
 
 config your OpenAI key on bottom of /etc/cowrie.cfg.dist
 
-[openai]
-enabled = true
-api_key =
-model = gpt-3.5-turbo
-system_prompt = You are a Linux command line interface. Respond as if you are the shell. Keep responses brief and realistic.
+* [openai]
+* enabled = true
+* api_key =
+* model = gpt-3.5-turbo
+* system_prompt = You are a Linux command line interface. Respond as if you are the shell. Keep responses brief and realistic.
